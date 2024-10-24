@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://munixehi.github.io/sitemap/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/qnJ/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/OFG/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/cAv/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/hjn/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/KaE/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/FfZ/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/KuF/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/RJr/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/OBf/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/gwk/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/LTg/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/mZH/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/fvx/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/JiV/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/wrB/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/YHs/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/VuA/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/cLH/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/nXd/sitemap_index.munixehi
+Sitemap: https://munixehi.github.io/UGI/sitemap_index.munixehi
